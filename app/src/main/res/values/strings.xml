@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFC detector App</string>
+    <string name="nfc_tag_er_oppdaget">NFC Tag er oppdaget</string>
+</resources>
